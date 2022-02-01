@@ -1,0 +1,23 @@
+{
+  "name": "animaux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tounektikhaled/animaux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tounektikhaled/animaux/issues"
+  },
+  "homepage": "https://github.com/tounektikhaled/animaux#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
